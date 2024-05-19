@@ -1,9 +1,6 @@
 
 <h2 align="center">
-  Portfolio Website<br/>
-<p align="center">
-<a href="https://shalevgabay.vercel.app/" target="_blank"><img src="./Images/coffee-break-back-to-work.svg"/>
-</p>
+<a href="https://shalevgabay.vercel.app/" target="_blank"><img src="./Images/shalevg-portfolio.svg"/>
 </h2>
 <div align="center">
   <img alt="Demo" src="./Images/readme-img1.png" />
